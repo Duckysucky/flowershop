@@ -1,0 +1,17 @@
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.csprojAssemblyReference.cache
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.csproj.CoreCompileInputs.cache
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.AssemblyInfoInputs.cache
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.AssemblyInfo.cs
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.deps.json
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.runtimeconfig.json
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.runtimeconfig.dev.json
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.dll
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShopTests.pdb
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShop.dll
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\bin\Debug\netcoreapp2.2\FlowerShop.pdb
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.csproj.CopyComplete
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.dll
+C:\Users\GAVIN\Documents\Prac 2\FlowerShopTests\obj\Debug\netcoreapp2.2\FlowerShopTests.pdb

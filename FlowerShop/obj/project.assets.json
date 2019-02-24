@@ -477,7 +477,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.2.0": {
-      "sha512": "OK/H8p9Ig6mLMITjXJ4VOewrJg/TU+dAPHE4BdMWMv+8COzBehf7XF1+DofKkmqdHpO2cJoS5Sc9PEZ6PKCbsg==",
+      "sha512": "qIrVLupwT2NYTrf7KM7Nh+mJr36V5MITVRjyGOByVVCwGmQgQmI/6bjZYQv+QdExi4Cm87eCKJX9FdT6nc00Xg==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.2.0",
       "files": [
@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\g16v4332\\.nuget\\packages\\": {},
+    "C:\\Users\\GAVIN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\My Documents\\CS302\\FlowerShop\\FlowerShop\\FlowerShop.csproj",
+      "projectUniqueName": "C:\\Users\\GAVIN\\Documents\\Prac 2\\FlowerShop\\FlowerShop.csproj",
       "projectName": "FlowerShop",
-      "projectPath": "J:\\My Documents\\CS302\\FlowerShop\\FlowerShop\\FlowerShop.csproj",
-      "packagesPath": "C:\\Users\\g16v4332\\.nuget\\packages\\",
-      "outputPath": "J:\\My Documents\\CS302\\FlowerShop\\FlowerShop\\obj\\",
+      "projectPath": "C:\\Users\\GAVIN\\Documents\\Prac 2\\FlowerShop\\FlowerShop.csproj",
+      "packagesPath": "C:\\Users\\GAVIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GAVIN\\Documents\\Prac 2\\FlowerShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\g16v4332\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GAVIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

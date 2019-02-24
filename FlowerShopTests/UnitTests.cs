@@ -1,28 +1,36 @@
 using NUnit.Framework;
 using FlowerShop;
+using NSubstitute;
 
 namespace Tests
 {
     public class Tests
     {
-        [SetUp]
+        private IOrderDAO x;
+        private IClientDAO client;
+        private IClient c;
+        private IOrder order;
+    [SetUp]
         public void Setup()
         {
-            //ARRANGE
-            IOrderDAO x;
-            IClientDAO client;
-            IClient c = new Client(client, "Hash", "9237484");
-            IOrder order = new Order(x, c);
+            x = Substitute.For<IOrderDAO>();
+            client = Substitute.For<IClientDAO>();
+            c = Substitute.For<IClient>();
+            order = Substitute.For<IOrder>();
 
-            //ACT
-            order.Deliver();
         }
 
         [Test]
         public void Test1()
         {
+            
+            
+            //ARRANGE
+            Order test = new Order(x, c);
+            //ACT 
+            test.Deliver();
             //ASSERT
-            Assert.Pass();
+            Assert.AreEqual(1, x.ReceivedCalls());
         }
     }
 }
