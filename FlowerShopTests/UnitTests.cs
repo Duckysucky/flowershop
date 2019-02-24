@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using FlowerShop;
 using NSubstitute;
+using System;
 
 namespace Tests
 {
@@ -28,9 +29,9 @@ namespace Tests
             //ARRANGE
             Order test = new Order(x, c);
             //ACT 
-            test.Deliver();
+            test.Deliver(x);
             //ASSERT
-            Assert.AreEqual(1, x.ReceivedCalls());
+            x.Received().SetDelivered(x);
         }
     }
 }

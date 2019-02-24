@@ -11,5 +11,6 @@ namespace FlowerShop
         void AddFlower(IClient order, IClient flower);
         void SetDelivered(IOrder order);
         void RemoveFlower(IClient order, IClient flower);
+        void SetDelivered(IOrderDAO order);
     }
 }
