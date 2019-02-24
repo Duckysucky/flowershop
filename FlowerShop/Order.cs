@@ -18,8 +18,14 @@ namespace FlowerShop
         }
 
         public double Profit {
-            get {
-                return 0;
+            get
+            {
+                double total = 0;
+                for(int i = 0; i < flowers.Capacity; i++)
+                {
+                    total += flowers[i].Cost;
+                }
+                return total;
             }
         }
 

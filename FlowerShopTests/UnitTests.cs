@@ -33,11 +33,16 @@ namespace Tests
             
             //ARRANGE
             Order test = new Order(x, c);
+            double total = 0;
+
 
             //ACT 
-            double total = test.Price;
+            for (int i = 0; i < flowers.Capacity; i++)
+            {
+                total += flowers[i].Cost;
+            }
             //ASSERT
-            Assert.That(total > 0);
+            Assert.That(total == test.Price);
         }
     }
 }
